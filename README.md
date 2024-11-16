@@ -1,8 +1,8 @@
 ### Summary:
 - 👋 Hi, I’m @alanzanardi
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python for Machine Learning and Neural network
-- 💞️ I’m looking to collaborate on data analysis
+- 👀 I’m interested in Data Analysis and Machine Learning
+- 🌱 I’m currently learning Python for Machine Learning and Neural Networks
+- 💞️ I’m looking to collaborate on data-driven projects
 - 📫 How to reach me alan.zanardi86@gmail.com
   <br>
 
